@@ -76,7 +76,7 @@ The message said “You've found a hidden message in this file! Include it in yo
 
 - **Extraction and Discovery:**
   - The hex data, starting from the JPEG signature, was extracted and transferred into Hex Fiend.
-  - By saving the hex data as a JPEG, it was revealed that the text file was, in fact, a disguised image.
+  - By saving the hex data as a JPEG, it was revealed that the text file `hiddenmessages.jpg` was, in fact, a disguised image.
 
 ## Sub-task 6: ATM Image Investigation
 
