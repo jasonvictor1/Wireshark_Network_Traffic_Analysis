@@ -1,3 +1,6 @@
+# Overview 
+This repository contains the work and findings from my job simulation experience with ANZ Australia. It was conducted through the Forage platform. The simulation focused on investigating potential cybersecurity threats with ANZ. This is a crucial skill in today's digital landscape where cyber attacks are prevalent.
+
 # Network Traffic Analysis Report
 
 This repository hosts the findings and supporting documents from a comprehensive network traffic analysis. The investigation involved a meticulous review of pcap files through Wireshark, a leading tool for network packet analysis. This process unveiled several files that were accessed or retrieved by the user, providing crucial insights for the cyber forensic examination.
